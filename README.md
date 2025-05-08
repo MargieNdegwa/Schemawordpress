@@ -1,0 +1,2 @@
+# Schemawordpress
+Schema for Wordpress
